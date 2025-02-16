@@ -35,4 +35,4 @@ Database
 
     🗄 PostgreSQL
 
-🚀 How to Run the Project (For Developers)
+
