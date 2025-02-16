@@ -1,38 +1,38 @@
 💍 Wedding Management App
 
-A web-based application designed to help couples and event planners organize weddings seamlessly. Our goal is to build an intuitive system that simplifies guest list management, invitations, budgeting, and task tracking.
+Planning a wedding can be overwhelming, but we’re here to make it easier! The Wedding Management App is being built to help couples and event planners stay organized, manage guest lists, send invitations, track budgets, and handle all the little details that make a wedding special.
 
-🚧 Status: Currently in development! Features are being actively planned and implemented. Stay tuned for updates.
+🚧 Status: We’re actively developing this project! The features below are still in the works, but we’re excited to bring them to life. Stay tuned for updates!
 👥 Team Members
 
     Tural Mammadli
     Tural Asgarov
     Rza Mirzayev
 
-📌 Project Overview
+📌 What’s This App About?
 
-The Wedding Management App aims to provide a stress-free experience for wedding planning by offering tools for managing guests, invitations, budgets, and vendors. Though the features are still in development, we are focused on creating a user-friendly, efficient, and organized planning system.
+Weddings involve a lot of moving parts—guest lists, RSVPs, vendors, budgets, and more. Our goal is to create an easy-to-use platform that helps couples keep everything in one place, reducing stress and making the planning process smooth and enjoyable.
+
+We’re still working on it, but here’s what we’re planning to include:
 ✨ Planned Features (Coming Soon 🚀)
 
-✅ Guest List Management – Add, remove, and update guest details.
-✅ Invitation Tracking – Monitor RSVP responses.
-✅ Budget Planning – Keep track of expenses and compare estimates.
-✅ Task Management – Schedule and assign wedding-related tasks.
-✅ Vendor Management – Store and manage vendor contacts and services.
+💡 Guest List Management – Add, remove, and update guest details effortlessly.
+💌 Invitation Tracking – Send invitations and monitor RSVPs in one place.
+💰 Budget Planning – Keep an eye on wedding expenses and compare estimates.
+📆 Task Management – Organize wedding-related tasks and set deadlines.
 
-    ⚠ Note: These features are in the planning and development stage. Implementation will be updated as progress is made!
 
-🛠 Technologies Used
-Frontend
+    Note: These features aren’t live yet—we’re actively working on them! If you have ideas or feedback, we’d love to hear from you.
+
+🛠 Tech Stack
+Frontend:
 
     🎨 HTML, CSS, JavaScript
 
-Backend
+Backend:
 
     🚀 Java Spring Boot
 
-Database
+Database:
 
     🗄 PostgreSQL
-
-
