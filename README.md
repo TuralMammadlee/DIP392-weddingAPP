@@ -23,7 +23,10 @@ We’re still working on it, but here’s what we’re planning to include:
 
 
     Note: These features aren’t live yet—we’re actively working on them! If you have ideas or feedback, we’d love to hear from you.
+📄 Project Report
 
+Want to know more about our project? Check out our detailed project report here:
+📑 https://docs.google.com/document/d/1UvPmUDsrvLCEIT5NieUSTxgQaRbkNYvM/edit?usp=sharing&ouid=103696701979092113311&rtpof=true&sd=true
 🛠 Tech Stack
 Frontend:
 
