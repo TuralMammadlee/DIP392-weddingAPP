@@ -1,5 +1,7 @@
 # Wedding Management App
 
+#Link for our document: https://docs.google.com/document/d/1UvPmUDsrvLCEIT5NieUSTxgQaRbkNYvM/edit?usp=sharing&ouid=103696701979092113311&rtpof=true&sd=true 
+
 ## Team Members
 - **Tural Mammadli**
 - **Tural Asgarov**
