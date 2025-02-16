@@ -11,7 +11,7 @@ Planning a wedding can be overwhelming, but we’re here to make it easier! The 
 
 📌 What’s This App About?
 
-Weddings involve a lot of moving parts—guest lists, RSVPs, vendors, budgets, and more. Our goal is to create an easy-to-use platform that helps couples keep everything in one place, reducing stress and making the planning process smooth and enjoyable.
+Weddings involve a lot of moving parts—guest lists, RSVPs, budgets, and more. Our goal is to create an easy-to-use platform that helps couples keep everything in one place, reducing stress and making the planning process smooth and enjoyable.
 
 We’re still working on it, but here’s what we’re planning to include:
 ✨ Planned Features (Coming Soon 🚀)
